@@ -8,4 +8,8 @@ describe('App', () => {
     it('Renders without error', () => {
         render(<App />);
     });
+
+    // it('fails', () => {
+    //     expect(false).toBe(true);
+    // });
 });
